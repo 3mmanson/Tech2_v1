@@ -6,6 +6,11 @@ body {
 }
 
 
+.pben{
+
+  justify-content: center;
+}
+
 .pparagraph{
   font-style: oblique;
 font-family: sans-serif;
