@@ -194,8 +194,14 @@
     padding-bottom: 7px;
     width: fit-content;
     display: flex;
-    margin-left: 6rem;
+    margin-left: 10rem;
    }
+
+   .layout_padding {
+    padding: 4rem 0rem 3rem 0rem;
+   
+  }
+  
   
 }
 
