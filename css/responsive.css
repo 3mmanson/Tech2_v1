@@ -182,7 +182,7 @@
 
   .service_section{
     padding-top: 30rem;
-    padding-bottom: 150px;
+    padding-bottom: 5rem;
   }
   
   .service_c{
@@ -197,6 +197,17 @@
     margin-left: 6rem;
    }
   
+   .footer_bg {
+    padding-top: 1rem;
+}
+.fotter_section{
+  display: flex;
+  align-items: flex-end;
+  height: 10rem;
+
+}
+
+
 }
 
 @media (max-width: 420px) {}

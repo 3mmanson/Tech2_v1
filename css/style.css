@@ -62,7 +62,7 @@ font-family: sans-serif;
 }
 
 .service{
-  margin-top: -90px;
+  margin-top: -5.5rem;
 }
 
 .layout_padding2 {
@@ -70,7 +70,7 @@ font-family: sans-serif;
 }
 
 .layout_padding2-top {
-  padding-top: 45px;
+  padding-top: 450rem;
  
 }
 
@@ -79,7 +79,7 @@ font-family: sans-serif;
 }
 
 .layout_padding-top {
-  padding-top: 75px;
+  padding-top: 700px;
 }
 
 .layout_padding-bottom {
@@ -391,8 +391,8 @@ a:focus {
   color: black;
   background-color: whitesmoke;
   background-size: 100% 100%;
-  padding-top: 250px;
-  padding-bottom: 150px;
+  padding-top: 17rem;
+  padding-bottom: 5rem;
   background-repeat: no-repeat;
 }
 
@@ -420,7 +420,7 @@ a:focus {
 .service_section .service_container .service_box {
   width: 30%;
   min-width: 300px;
-  margin: 35px 15px;
+  margin: 35px 15px 20px 15px;
   padding: 6px 60px 6px 10px;
 
   
