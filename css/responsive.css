@@ -7,6 +7,7 @@
 @media (max-width: 992px) {
   .custom_nav-container .nav_search-btn {
     background-position: center;
+    padding: 60rem;
   }
 
   .hero_area::before {
@@ -33,7 +34,7 @@
   }
 
   .slider_img-box::before {
-    background-image: url(../images/hero-bg-mobile.png);
+   
     width: 100%;
     height: 100%;
     content: "";
@@ -63,6 +64,7 @@
     display: none;
   }
 }
+
 
 @media (max-width: 768px) {
 
@@ -107,7 +109,6 @@
   }
 
   .slider_img-box::before {
-    background-image: url(../images/hero-bg-mobile.png);
     width: 100%;
     height: 100%;
     content: "";
@@ -162,7 +163,41 @@
   }
 }
 
-@media (max-width: 480px) {}
+@media (max-width: 770px) {}
+@media  screen and (max-width: 770px) {
+  .slider_nav{
+    padding-top: 0.5rem;
+   
+  }
+  .btn-box{
+    margin-top: 1rem;
+    padding: 2rem 0rem 5rem 1rem;
+  }
+  .slider_img-box {
+    width: 100%;
+   margin-bottom: 7rem;
+   margin-left: 1rem;
+   padding-top: 0.1rem;
+  }
+
+  .service_section{
+    padding-top: 30rem;
+    padding-bottom: 150px;
+  }
+  
+  .service_c{
+    padding: 1rem;
+  }
+
+  .hserviceLine{
+    border-bottom: 1px solid #feb543;
+    padding-bottom: 7px;
+    width: fit-content;
+    display: flex;
+    margin-left: 6rem;
+   }
+  
+}
 
 @media (max-width: 420px) {}
 
