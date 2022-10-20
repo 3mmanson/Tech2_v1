@@ -125,9 +125,9 @@
   }
 
   .service_section {
-    padding-top: 375px;
+    padding-top: 250px;
     background-position: bottom;
-    margin-top: -325px;
+    margin-top: 25px;
   }
 
   .client_container {
@@ -181,8 +181,8 @@
   }
 
   .service_section{
-    padding-top: 30rem;
-    padding-bottom: 5rem;
+    padding-top: 15rem;
+    padding-bottom: 150px;
   }
   
   .service_c{
@@ -194,18 +194,23 @@
     padding-bottom: 7px;
     width: fit-content;
     display: flex;
-    margin-left: 6rem;
+    margin: auto;
    }
-  
-   .footer_bg {
-    padding-top: 1rem;
-}
-.fotter_section{
-  display: flex;
-  align-items: flex-end;
-  height: 10rem;
 
+   .layout_padding {
+    padding: 4rem 0rem 3rem 0rem;
+   
+  }
+  .layout_padding2{
+    padding-top: 1px;
+  }
+
+  .service_section .service_container .service_box {
+     min-width: 300px;
+    margin-top:  -60px;
+    padding: 20px 3px 0px 4px; 
 }
+
 
 
 }
