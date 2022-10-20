@@ -2,6 +2,7 @@ body {
   font-family: "Poppins", sans-serif;
   color: #0c0c0c;
   background-color: #ffffff;
+  
 }
 
 
@@ -669,7 +670,7 @@ background: radial-gradient(circle, rgba(0,7,23,1) 0%, rgba(3,15,91,0.9590517241
   padding-bottom: 7px;
   width: fit-content;
   display: flex;
-  margin-left: 350px;
+  margin-left: 18rem;
  }
 
 
